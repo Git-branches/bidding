@@ -268,7 +268,7 @@ include 'config.php';
                         Online <span class="text-gradient typing-container"><span id="typingText" class="typing-text">Bidding System</span></span>
                     </h2>
                     <p class="text-xl text-gray-300 mb-10 max-w-2xl mx-auto hero-subtitle">
-                        Bid on amazing products and win great deals!
+                        Bid on amazing products and win great deals item !
                     </p>
                     <?php if(!isLoggedIn()): ?>
                         <div class="cta-buttons flex flex-col sm:flex-row justify-center gap-4">
